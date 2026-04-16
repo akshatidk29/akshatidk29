@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="font-size: 4em; font-weight: 800; letter-spacing: -1px;">Akshat Mittal</h1>
+<h1 style="font-size: 6em; font-weight: 800; letter-spacing: -1px;">Akshat Mittal</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Developer+%26+Founder;Building+Intelligent+Software+%26+Products;Deep+Learning+%7C+Full+Stack+%7C+Startups)](https://git.io/typing-svg)
 
