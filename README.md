@@ -70,22 +70,13 @@ On the business side, I founded **theTwoCubes** to turn that engineering into re
 ### Building SaaS, Automations, and MVPs
 
 <p>
-<b>theTwoCubes</b> is a software studio focused on helping founders and early-stage teams turn ideas into real, working products, without wasting months on iteration or accumulating technical debt.
+<b>theTwoCubes</b> is a software studio focused on helping founders and early-stage teams turn ideas into real, working products, without wasting months on iteration or accumulating technical debt. We combine strong engineering fundamentals with modern AI tooling to build systems that are not just fast to launch, but also designed to scale from day one.
 </p>
-
-<p>
-We combine strong engineering fundamentals with modern AI tooling to build systems that are not just fast to launch, but also designed to scale from day one.
-</p>
-
-<br/>
-
-
 
 <p>
 Our focus is on clean code, strong architecture, and fast execution, so you don’t have to rebuild everything later.
 </p>
 
-<br/>
 
 ### Let’s build something
 
