@@ -21,7 +21,7 @@ I am a developer and founder based in India. My work sits at the intersection of
 
 On the engineering side, I work across the full stack: deep learning research, backend systems, and frontend products. I have a strong foundation in algorithms and systems thinking, which I apply across everything I build.
 
-On the business side, I founded **theTwoCubes** to turn that engineering into real products for real customers.
+On the business side, I founded **theTwoCubes** to turn that engineering into real products for customers.
 
 ---
 
@@ -70,18 +70,8 @@ On the business side, I founded **theTwoCubes** to turn that engineering into re
 ### Building SaaS, Automations, and MVPs
 
 <p>
-<b>theTwoCubes</b> is a software studio focused on helping founders and early-stage teams turn ideas into real, working products, without wasting months on iteration or accumulating technical debt. We combine strong engineering fundamentals with modern AI tooling to build systems that are not just fast to launch, but also designed to scale from day one.
+<b>theTwoCubes</b> was a software studio focused on helping founders and early-stage teams turn ideas into real, working products without wasting months on iteration or accumulating technical debt. We combined strong engineering fundamentals with modern AI tooling to build systems that were not just fast to launch, but also designed to scale from day one.
 </p>
-
-<p>
-Our focus is on clean code, strong architecture, and fast execution, so you don’t have to rebuild everything later.
-</p>
-
-
-### Let’s build something
-
-<a href="https://www.thetwocubes.com"><b>thetwocubes.com</b></a>  
-<a href="mailto:build@thetwocubes.com"><b>build@thetwocubes.com</b></a>
 
 </div>
 
